@@ -1,0 +1,93 @@
+[
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1729368762.710363,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sp_t",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "cecd6fa5-8974-4e1f-913e-654c613f34b4"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1721121954.238982,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sp_dc",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "AQCU8FMHXji6aHf_Dy6dD_LK-xWf9Nhzu_y-c8M92ZPAgqn78ZnknVMcyN9SzwSE4H4a91KR8aoHROkeBMXJYdr_-zwVuTncd2f4uTPwFXrx8BeTwfS3sDFfobWv71HAX-Jd41OdchRP6cGlk_9XTbu0J1dItmr5WTDP_HKyvoJCwrjO8o-1CTtwNz9s8VJtW3IQTWiZ7xYMo7xcUAT2pfekAVo"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1715023365.324244,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sp_gaid",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0088fc7a21693dc1fc8cb2b112bf25ed5a5ab82f6600664fd12f7c"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1721121954.239856,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sp_key",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "7ebcd69d-bce6-4679-8a45-cb849fef892e"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1713903104.576423,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sp_landing",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "https%3A%2F%2Fwww.spotify.com%2Fng%2Ffamily%2Fjoin%2Faddress%2F0aZ97YBCz9xyy13%2F"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1715107944.584374,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "sp_last_utm",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22utm_campaign%22%3A%22your_account%22%2C%22utm_medium%22%3A%22menu%22%2C%22utm_source%22%3A%22spotify%22%7D"
+    },
+    {
+        "domain": ".spotify.com",
+        "expirationDate": 1729368704.576131,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sp_m",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ng"
+    }
+]
